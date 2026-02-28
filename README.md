@@ -25,7 +25,7 @@ Platformumuzun sunduğu fırsatları keşfetmek için aşağıdaki bağlantılar
 
 * 🚀 **[Ücretsiz seri ilan](https://ilandaddy.com)** – Hemen ücretsiz ilan oluşturun.
 * 🔎 **[Tüm Seri İlanlar](https://ilandaddy.com/ilanlar)** – Güncel iş, emlak ve hizmet ilanlarını inceleyin.
-* 👥 **[Üye Sayfası](https://ilandaddy.com/uyeler)** – Topluluğumuza katılan üyeleri ve profilleri görüntüleyin.
+* 👥 **[Bayan Arkadaş](https://ilandaddy.com/uyeler)** – Topluluğumuza katılan üyeleri ve profilleri görüntüleyin.
 
 ---
 *ilandaddy.com: İlan vermenin en hızlı ve güvenilir yolu.*
